@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deelocutionemve01georgoog_0006.png"; bbox 0 0 3346 5454; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 99 529 916 767">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 99 529 916 767">
+     <span class='ocr_line' id='line_1_1' title="bbox 99 529 916 767; baseline 0.005 -226.32"><span class='ocrx_word' id='word_1_1' title='bbox 99 529 916 767; x_wconf 31' lang='grc' dir='ltr'><strong>Ῥμ-*ὟἪΨ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 423 537 1468 1187">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 95 537 1468 1548">
+     <span class='ocr_line' id='line_1_2' title="bbox 423 537 1468 1187; baseline 0.007 -25.85"><span class='ocrx_word' id='word_1_2' title='bbox 423 1056 531 1161; x_wconf 85' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 570 1055 1093 1172; x_wconf 85' lang='lat' dir='ltr'><strong>ELOCUTIONE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 805 537 1412 1187; x_wconf 10' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_5' title='bbox 1466 1163 1468 1168; x_wconf 83' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 144 1567 1496 1920">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 144 1567 1496 1920">
+     <span class='ocr_line' id='line_1_3' title="bbox 144 1567 1496 1920; baseline 0 -68"><span class='ocrx_word' id='word_1_6' title='bbox 144 1657 242 1854; x_wconf 99' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_7' title='bbox 282 1657 719 1854; x_wconf 80' lang='lat' dir='ltr'>MELLEM</span> <span class='ocrx_word' id='word_1_8' title='bbox 767 1567 1410 1920; x_wconf 73' lang='lat' dir='ltr'>PATERCUM</span> <span class='ocrx_word' id='word_1_9' title='bbox 1493 1673 1496 1680; x_wconf 77' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 356 2873 1538 3093">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 356 2873 1538 3093">
+     <span class='ocr_line' id='line_1_4' title="bbox 356 2873 1538 3093; baseline 0.001 -127"><span class='ocrx_word' id='word_1_10' title='bbox 356 2874 602 2966; x_wconf 87' lang='lat' dir='ltr'><strong>HENRI</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 616 2873 768 3093; x_wconf 62' lang='lat' dir='ltr'><strong>CURPS</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 769 2873 1151 3092; x_wconf 74' lang='lat' dir='ltr'><strong>HIGEORGES</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1413 2955 1416 2961; x_wconf 33' lang='lat'>&lt;</span> <span class='ocrx_word' id='word_1_14' title='bbox 1534 2911 1538 2916; x_wconf 90' lang='lat'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1678 5454">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1678 5454">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1678 5454; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1678 5454; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
